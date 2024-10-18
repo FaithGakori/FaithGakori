@@ -8,7 +8,7 @@ I love everything about DATA
 
 ## Skills
 
-![Python](https://https://github.com/FaithGakori/FaithGakori/py.png)
+![Python](https://github.com/FaithGakori/FaithGakori/blob/main/py.png.png)
 ![SQL](https://your-repo-link.com/sql.png)
 
 
