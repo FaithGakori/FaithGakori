@@ -9,14 +9,13 @@ Skills: Python | R | SQL | Excel | Power BI | AI
 - ⚡ Fun fact: I love Hiking & Reading Novels. I also offer tutoring in Power BI. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaithGakori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Faith Gakori/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaithGakori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faith-gakori-b98027255//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithGakori)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithGakori&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=FaithGakori)  
-
 
 ## Certifications
 - [Artificial Intelligence Fundamentals](https://www.credly.com/badges/22109cac-1225-43c1-9d2c-5aa94b72214e/linked_in_profile) - by IBM
