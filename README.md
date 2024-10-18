@@ -12,14 +12,6 @@ I love everything about DATA
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/sql.jpg" alt="Python" width="50" height="50"/>
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaithGakori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faith-gakori-b98027255//)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithGakori)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithGakori&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=FaithGakori)  
-
 ## Certifications
 - [Artificial Intelligence Fundamentals](https://www.credly.com/badges/22109cac-1225-43c1-9d2c-5aa94b72214e/linked_in_profile) - by IBM
   
@@ -30,6 +22,16 @@ I love everything about DATA
 - [Data Analytics Consulting Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_Qd8dcTp3CymiPq9D7_1686325047423_completion_certificate.pdf) - Certified by Forage
   
 - [Power BI Virtual Case Experience by Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_Qd8dcTp3CymiPq9D7_1687168401216_completion_certificate.pdf) - Certified by Forage
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaithGakori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faith-gakori-b98027255//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithGakori)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithGakori&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=FaithGakori)  
+
+
 
 
 
