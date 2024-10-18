@@ -1,42 +1,22 @@
-### Hallo 👋. I'm Faith Gakori
+### Hi there 👋, I am Faith Gakori
+#### Data Analyst | Power BI Specialist
+I love everything about DATA
 
-## Data Analyst
-## Always Learning. 
+Skills: Python | R | SQL | Excel | Power BI | AI
 
-- ✉ Reach me on: faithgakori506@gmail.com
-
-# My Skills
-##### Python
-##### R
-##### SQL
-##### Excel
-##### Power BI
+- 🌱 I’m currently learning Machine Learning 
+- 💬 Ask me about Data Analytics 
+- ⚡ Fun fact: I love Hiking & Reading Novels. I also offer tutoring in Power BI. 
 
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaithGakori)  
-
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FaithGakori)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaithGakori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Faith Gakori/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithGakori)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithGakori&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/FaithGakori)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithGakori&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=FaithGakori)  
+
 
 
 
