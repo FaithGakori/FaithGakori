@@ -18,22 +18,12 @@ Skills: Python | R | SQL | Excel | Power BI | AI
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=FaithGakori)  
 
 
-
-
-# My Certifications
-
-- Power BI Virtual Case Experience by Forage
-- Data Analytics Consulting Virtual Internship
-- Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation
-- Commonwealth Bank - Introduction to Data Science Job Simulation
-- Artificial Intelligence Fundamentals
-
 ## Certifications
-- [Power BI Virtual Case Experience](https://www.credly.com/badges/22109cac-1225-43c1-9d2c-5aa94b72214e/linked_in_profile) - Certified by Forage
-- [Power BI Virtual Case Experience](https://link-to-your-cert.pdf) - Certified by Forage
-- [Power BI Virtual Case Experience](https://link-to-your-cert.pdf) - Certified by Forage
-- [Power BI Virtual Case Experience](https://link-to-your-cert.pdf) - Certified by Forage
-- [Power BI Virtual Case Experience](https://link-to-your-cert.pdf) - Certified by Forage
+- [Artificial Intelligence Fundamentals](https://www.credly.com/badges/22109cac-1225-43c1-9d2c-5aa94b72214e/linked_in_profile) - by IBM
+- [Commonwealth Bank - Introduction to Data Science Job Simulation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/smwfytX3mcLboA9bf_Commonwealth%20Bank_Qd8dcTp3CymiPq9D7_1727937059866_completion_certificate.pdf) - Certified by Forage
+- [Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_Qd8dcTp3CymiPq9D7_1728489135549_completion_certificate.pdf) - Certified by Forage
+- [Data Analytics Consulting Virtual Internship](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_Qd8dcTp3CymiPq9D7_1686325047423_completion_certificate.pdf) - Certified by Forage
+- [Power BI Virtual Case Experience by Forage](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_Qd8dcTp3CymiPq9D7_1687168401216_completion_certificate.pdf) - Certified by Forage
 
 
 
