@@ -1,8 +1,7 @@
-### Hallo 👋. I'm Faith. 
-##                              Data Analyst
+### Hallo 👋. I'm Faith Gakori
 
-- I am a data analyst with proficiency in Microsoft Excel, Power BI & Python.
-- Always Learning. 
+##                                          Data Analyst
+##                                           Always Learning. 
 
 - ✉ Reach me on: faithgakori506@gmail.com
 
