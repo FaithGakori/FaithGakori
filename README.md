@@ -9,12 +9,8 @@ I love everything about DATA
 ## Skills
 <p align="left">
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/py.png" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/sql.jpg" alt="Python" width="50" height="50"/>
 </p>
-
-
-![SQL](https://your-repo-link.com/sql.png)
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaithGakori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faith-gakori-b98027255//)  
 
