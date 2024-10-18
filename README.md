@@ -2,11 +2,15 @@
 #### Data Analyst | Power BI Specialist
 I love everything about DATA
 
-Skills: Python | R | SQL | Excel | Power BI | AI
-
 - 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about Data Analytics 
-- ⚡ Fun fact: I love Hiking & Reading Novels. I also offer tutoring in Power BI. 
+- ⚡ Fun fact: I love Hiking & Reading Novels. I also offer tutoring in Power BI.
+
+## Skills
+
+![Python](https://https://github.com/FaithGakori/FaithGakori/py.png)
+![SQL](https://your-repo-link.com/sql.png)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaithGakori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faith-gakori-b98027255//)  
