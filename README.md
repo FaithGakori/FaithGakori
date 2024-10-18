@@ -1,11 +1,13 @@
 ### Hallo 👋. I'm Faith Gakori
 
-##                                          Data Analyst
-##                                           Always Learning. 
+## Data Analyst
+## Always Learning. 
 
 - ✉ Reach me on: faithgakori506@gmail.com
 
 # My Skills
+![py](https://github.com/user-attachments/assets/4dacd070-bd48-4fd9-a970-99c9752cdf6c)
+
 
 # My Certifications
 
