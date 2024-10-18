@@ -7,10 +7,6 @@ I love everything about DATA
 - ⚡ Fun fact: I love Hiking & Reading Novels. I also offer tutoring in Power BI.
 
 ## Skills
-
-![Python](https://github.com/FaithGakori/FaithGakori/blob/main/py.png)
-
-## Skills
 <p align="left">
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/py.png" alt="Python" width="50" height="50"/>
 </p>
