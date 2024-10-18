@@ -27,3 +27,13 @@ Skills: Python | R | SQL | Excel | Power BI | AI
 - Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation
 - Commonwealth Bank - Introduction to Data Science Job Simulation
 - Artificial Intelligence Fundamentals
+
+## Certifications
+- [Power BI Virtual Case Experience](https://www.credly.com/badges/22109cac-1225-43c1-9d2c-5aa94b72214e/linked_in_profile) - Certified by Forage
+- [Power BI Virtual Case Experience](https://link-to-your-cert.pdf) - Certified by Forage
+- [Power BI Virtual Case Experience](https://link-to-your-cert.pdf) - Certified by Forage
+- [Power BI Virtual Case Experience](https://link-to-your-cert.pdf) - Certified by Forage
+- [Power BI Virtual Case Experience](https://link-to-your-cert.pdf) - Certified by Forage
+
+
+
