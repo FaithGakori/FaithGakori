@@ -9,6 +9,13 @@ I love everything about DATA
 ## Skills
 
 ![Python](https://github.com/FaithGakori/FaithGakori/blob/main/py.png)
+
+## Skills
+<p align="left">
+  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/py.png" alt="Python" width="50" height="50"/>
+</p>
+
+
 ![SQL](https://your-repo-link.com/sql.png)
 
 
