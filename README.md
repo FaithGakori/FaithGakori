@@ -1,8 +1,9 @@
 ### Hi there 👋, I am Faith Gakori
 #### Data Analyst | Power BI Specialist
 I love everything about DATA
+Working towards becoming a Data Scientist
 
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning SQL
 - 💬 Ask me about Data Analytics 
 - ⚡ Fun fact: I love Hiking & Reading Novels. I also offer tutoring in Power BI.
 
@@ -11,7 +12,7 @@ I love everything about DATA
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/py.png" alt="Python" width="50" height="50"/>
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/sql.jpg" alt="SQL" width="50" height="50"/>
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/BI.png" alt="BI" width="50" height="50"/>
-  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/HTML.jpg" alt="HTML" width="50" height="50"/>
+  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/HTML.png" alt="HTML" width="50" height="50"/>
 </p>
 
 ## Certifications
