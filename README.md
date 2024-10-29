@@ -9,9 +9,9 @@ I love everything about DATA
 ## Skills
 <p align="left">
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/py.png" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/sql.jpg" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/BI.jpg" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/BI.jpg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/sql.jpg" alt="SQL" width="50" height="50"/>
+  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/BI.png" alt="BI" width="50" height="50"/>
+  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/HTML.jpg" alt="HTML" width="50" height="50"/>
 </p>
 
 ## Certifications
