@@ -10,6 +10,7 @@ I love everything about DATA
 <p align="left">
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/py.png" alt="Python" width="50" height="50"/>
   <img src="https://github.com/FaithGakori/FaithGakori/blob/main/sql.jpg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/FaithGakori/FaithGakori/blob/main/sql.jpg" alt="Python" width="50" height="50"/>
 </p>
 
 ## Certifications
