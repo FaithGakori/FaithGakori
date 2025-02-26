@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Faith Gakori
-#### Data Analyst | Power BI Specialist
+#### Data Analyst | Data Scientist | Power BI Specialist
 I love everything about DATA
 
 Working towards becoming a Data Scientist
