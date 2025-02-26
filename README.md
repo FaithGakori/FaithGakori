@@ -4,7 +4,6 @@ I love everything about DATA
 
 Working towards becoming a Data Scientist
 
-- 🌱 I’m currently learning SQL
 - 💬 Ask me about Data Analytics 
 - ⚡ Fun fact: I love Hiking & Reading Novels. I also offer tutoring in Power BI.
 
